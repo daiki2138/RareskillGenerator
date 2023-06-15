@@ -1,4 +1,4 @@
-# RareskillGenerator
+# RareskillGenerator Ver.1.0
 画像の著作権は全て ©AZONE INTERNATIONAL・acus/アサルトリリィプロジェクト が保有しております。
 
 初回起動時警告が出ますが詳細情報を押して実行をすると問題なく動作します。

@@ -1,7 +1,7 @@
 # RareskillGenerator Ver.1.0
 画像の著作権は全て ©AZONE INTERNATIONAL・acus/アサルトリリィプロジェクト が保有しております。
 
-使用するときは<a style="font-color:green;"><>Code▼</a>のDownload Zipからダウンロードし解凍してご利用ください。<br />
+使用するときは<>Code▼のDownload Zipからダウンロードし解凍してご利用ください。<br />
 初回起動時警告が出ますが詳細情報を押して実行をすると問題なく動作します。
 
 ・利用方法<br />

@@ -1,6 +1,8 @@
 # RareskillGenerator Ver.1.0
 画像の著作権は全て ©AZONE INTERNATIONAL・acus/アサルトリリィプロジェクト が保有しております。
 
+使用するときは<>コードのDownload Zipからダウンロードし解凍してご利用ください。
+
 初回起動時警告が出ますが詳細情報を押して実行をすると問題なく動作します。
 
 ①　レアスキルとノインヴェルトと設定する時はrareskill_generator.exeを起動し始めに名前一覧.xlsxに則り1人目の名前を入力する。
